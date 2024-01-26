@@ -1,6 +1,6 @@
 body
 {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-image: url("images/table.png");
     background-size: cover;
     text-align: center;
@@ -11,16 +11,16 @@ body
     align-items: center;
     flex-direction: column;
 }
-h1{
-    color: goldenrod;
+h1
+{
+ color: goldenrod;
 }
 #message-el
 {
-    font-style: italic;
+ font-style: italic;
 }
 button 
 {
-    
  color: #016f32;
  width: 150px;
  background: goldenrod;
